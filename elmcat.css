@@ -102,3 +102,12 @@ html:hover .gray.triangle, body:hover .gray.triangle {
   -webkit-transform: translate(7px, 0px) rotate(112deg);
           transform: translate(7px, 0px) rotate(112deg);
 }
+
+.source {
+  padding: 10px;
+}
+
+.source a {
+  color: #ffb03a;
+  text-decoration: none;
+}
